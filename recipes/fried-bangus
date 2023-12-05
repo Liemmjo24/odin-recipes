@@ -1,0 +1,34 @@
+<!doctype HTML>
+<html>
+<head>
+  <meta charset="UTF-8>
+  <title>Fried Bangus</title
+</head>
+<body>
+  <h1>Fried Bangus</h1>
+  <src img="https://yummy-poc-bucket-imgs-files.s3.amazonaws.com/uploads/2023/04/cookedbangus.jpg" alt="Fried bangus served">
+  <h2>Fried Bangus or Fried milkfish is a simple dish that is packed with flavors.
+      The milkfish alone has its deliciously rich taste (especially the belly) while the marinade gives it a sour spicy flavor.
+  </h2>
+  <h3>Ingredients</h3>
+  <ul>
+    <li>1 large boneless bangus milkfish; scales removed, cleaned and butterflied</li>
+    <li>1/2 cup white vinegar</li>
+    <li>4 cloves garlic crushed</li>
+    <li>1/2 teaspoon salt</li>
+    <li>1 cup cooking oil</li>
+  </ul>
+  <h3>Steps</h3>
+  <ol>
+    <li>Combine vinegar, garlic, and salt in a bowl. Stir.</li>
+    <li>In a deep wide plate, pour-in the mixture and then lay down the fish in a 
+    manner that the sliced part is facing down (skin should face up). 
+    Cover and place in the fridge. Marinate for 8 to 12 hours.</li>
+    <li>Heat the cooking oil in a pan. Fry both sides of the bangus in medium heat until the color turns medium brown 
+    (note: it should take around 5 minutes per side). 
+    Note: the oil has a tendency to splatter because of the liquid from the marinade. 
+    Make sure to cover the pan while leaving open a small space for the steam to escape.</li>
+    <li>Serve with spiced vinegar(Optional)</li>
+  </ol>
+</body>
+</html>
