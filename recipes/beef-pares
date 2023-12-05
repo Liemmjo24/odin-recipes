@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Beef Pares</title>
+  </head>
+  <body>
+    <h1>Beef Pares</h1>
+    <img src="https://thedelicious.recipes/wp-content/uploads/2023/05/beef-pares-with-fried-rice.jpg" alt="Beef pares with leeks">
+    <h2>Beef Pares are cubed beef briskets cooked with spices and tenderized to perfection. 
+    The aroma of this dish alone is enticing. 
+    The taste is captivating. You will surely ask for more after tasting it.
+    </h2>
+    <h3>Ingredients</h3>
+    <ul>
+      <li>2 ½ lbs. beef cubed</li>
+      <li>¼ cup brown sugar</li>
+      <li>6 tablespoons soy sauce</li>
+      <li>1 piece onion chopped</li>
+      <li>5 cloves garlic crushed</li>
+      <li>½ cup scallions chopped</li>
+      <li>2 ½ cups water</li>
+      <li>3 tablespoons cooking oil</li>
+      <li>Salt and ground peppper to taste</li>
+    </ul>
+    <h3>Steps</h3>
+    <ol>
+      <li>Heat oil in a cooking pot or pressure cooker. Saute onion and garlic</li>
+      <li>Add the beef once onion softens. Cook until light brown.</li>
+      <li>Pour soy sauce and water. Stir.</li>
+      <li> Cover the pressure cooker and pressure cook for 15 minutes.</li>
+      <li>Add brown sugar and season with salt and ground black pepper.
+          Cook for 8 to 10 minutes more or until the sauce reduces a bit.</li>
+      <li>Top with chopped scallions and serve with sinangag and beef stock. Share and enjoy.</li>
+    </ol>
+  </body>
+</html>
