@@ -36,8 +36,25 @@ Back to index
     color: white;
 }
 
-.recipes{
-    text-align: center;
-    display: flex;
-    justify-content: center;
+ul{
+    border: 3px solid rgb(233, 32, 32);
+    display:flex;
+    flex-direction: column;
+    padding:5px;
+    border-radius: 15px;
+}
+ol{
+    border: 3px solid rgb(233, 32, 32);  
+    display:flex;
+    flex-direction: column;
+    padding:5px;
+    border-radius:15px
+}
+.border{
+    background-color:#d1b6a8;
+    padding:2.5px;
+    border-radius:5px;
+}
+li{
+    background-color: rgb(183, 158, 207);
 }
